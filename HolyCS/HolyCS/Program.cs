@@ -2,9 +2,12 @@
 
 namespace HolyCS
 {
-
     class Program
     {
+        static public int ToChristianity()
+        {
+            return (Convert.ToInt32(Console.ReadLine()));
+        }
         class God
         {
             static public void Say(string args)
@@ -25,17 +28,21 @@ namespace HolyCS
             }
             static public string HearPrayer()
             {
-                return(Console.ReadLine());
+                return (Console.ReadLine());
+            }
+            static public int Hear()
+            {
+                return (Console.Read());
             }
         }
 
         static void Main(string[] args)
         {
-            string Adam;
-
-            God.Sayeth("who is Adam");
-            Adam = God.HearPrayer();
-            God.Sayeth("You believe Adam is " + Adam + "?");
+            God.SayLine("Hello my children");
+            int g;
+            g = Convert.ToInt32(God.HearPrayer());
+            God.SayLine(g + 500);
         }
     }
 }
+
