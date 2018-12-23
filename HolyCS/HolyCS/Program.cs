@@ -6,9 +6,17 @@ namespace HolyCS
     {
         class ConvertTo
         {
-            static public int Christianity()
+            static public short Hinduism()
+            {
+                return (Convert.ToInt16(Console.ReadLine()));
+            }
+            static public int Judaism()
             {
                 return (Convert.ToInt32(Console.ReadLine()));
+            }
+            static public long Christianity()
+            {
+                return (Convert.ToInt64(Console.ReadLine()));
             }
         }
         class God
@@ -43,8 +51,8 @@ namespace HolyCS
         {
             int r, r2;
 
-            r = ConvertTo.Christianity();
-            r2 = ConvertTo.Christianity();
+            r = ConvertTo.Judaism();
+            r2 = ConvertTo.Judaism();
 
             God.SayLine(r + r2);
         }
