@@ -4,9 +4,12 @@ namespace HolyCS
 {
     class Program
     {
-        static public int ToChristianity()
+        class ConvertTo
         {
-            return (Convert.ToInt32(Console.ReadLine()));
+            static public int Christianity()
+            {
+                return (Convert.ToInt32(Console.ReadLine()));
+            }
         }
         class God
         {
@@ -16,7 +19,7 @@ namespace HolyCS
             }
             static public void Sayeth(string args)
             {
-                Console.WriteLine(args + "eth");
+                Console.WriteLine(args.Replace(" ", "eth "));
             }
             static public void SayLine(string args)
             {
@@ -38,10 +41,12 @@ namespace HolyCS
 
         static void Main(string[] args)
         {
-            God.SayLine("Hello my children");
-            int g;
-            g = Convert.ToInt32(God.HearPrayer());
-            God.SayLine(g + 500);
+            int r, r2;
+
+            r = ConvertTo.Christianity();
+            r2 = ConvertTo.Christianity();
+
+            God.SayLine(r + r2);
         }
     }
 }
