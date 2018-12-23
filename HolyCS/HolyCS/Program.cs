@@ -8,15 +8,15 @@ namespace HolyCS
         {
             static public short Hinduism()
             {
-                return (Convert.ToInt16(Console.ReadLine()));
+                return (Convert.ToInt16(Hinduism()));
             }
             static public int Judaism()
             {
-                return (Convert.ToInt32(Console.ReadLine()));
+                return (Convert.ToInt32(Judaism()));
             }
             static public long Christianity()
             {
-                return (Convert.ToInt64(Console.ReadLine()));
+                return (Convert.ToInt64(Christianity()));
             }
         }
         class God
@@ -37,6 +37,14 @@ namespace HolyCS
             {
                 Console.WriteLine(args);
             }
+            static public void SayLine(bool args)
+            {
+                Console.WriteLine(args);
+            }
+            static public void SayLine(char args)
+            {
+                Console.WriteLine(args);
+            }
             static public string ListenPrayer()
             {
                 return (Console.ReadLine());
@@ -49,12 +57,6 @@ namespace HolyCS
 
         static void Main(string[] args)
         {
-            int r, r2;
-
-            r = ConvertTo.Judaism();
-            r2 = ConvertTo.Judaism();
-
-            God.SayLine(r + r2);
         }
     }
 }
