@@ -15,6 +15,10 @@ namespace HolyCS
             {
                 Console.WriteLine(args + "eth");
             }
+            static public void SayLine(string args)
+            {
+                Console.WriteLine(args + "\n");
+            }
             static public string HearPrayer()
             {
                 return(Console.ReadLine());
