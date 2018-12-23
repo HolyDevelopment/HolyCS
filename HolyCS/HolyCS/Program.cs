@@ -37,11 +37,11 @@ namespace HolyCS
             {
                 Console.WriteLine(args);
             }
-            static public string HearPrayer()
+            static public string ListenPrayer()
             {
                 return (Console.ReadLine());
             }
-            static public int Hear()
+            static public int Listen()
             {
                 return (Console.Read());
             }
