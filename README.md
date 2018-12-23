@@ -9,3 +9,6 @@ The continuation of HolyC, but now it's Sharp
 
 # Why?
  idk lol
+
+# How do i set this up?
+ boy it's literally just a folder you put into VS
