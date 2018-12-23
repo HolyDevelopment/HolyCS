@@ -17,7 +17,11 @@ namespace HolyCS
             }
             static public void SayLine(string args)
             {
-                Console.WriteLine(args + "\n");
+                Console.WriteLine(args);
+            }
+            static public void SayLine(int args)
+            {
+                Console.WriteLine(args);
             }
             static public string HearPrayer()
             {
