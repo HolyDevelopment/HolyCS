@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace HolyCS
 {
@@ -6,17 +6,17 @@ namespace HolyCS
     {
         class ConvertTo
         {
-            static public short Hinduism()
+            static public short Hinduism(int number)
             {
-                return (Convert.ToInt16(Hinduism()));
+                return Convert.ToInt16(number);
             }
-            static public int Judaism()
+            static public int Judaism(int number)
             {
-                return (Convert.ToInt32(Judaism()));
+                return Convert.ToInt32(number);
             }
-            static public long Christianity()
+            static public long Christianity(int number)
             {
-                return (Convert.ToInt64(Christianity()));
+                return Convert.ToInt64(number);
             }
         }
         class God
@@ -47,16 +47,17 @@ namespace HolyCS
             }
             static public string ListenPrayer()
             {
-                return (Console.ReadLine());
+                return Console.ReadLine();
             }
             static public int Listen()
             {
-                return (Console.Read());
+                return Console.Read();
             }
         }
 
         static void Main(string[] args)
         {
+
         }
     }
 }
