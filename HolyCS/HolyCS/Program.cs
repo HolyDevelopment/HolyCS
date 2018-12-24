@@ -6,17 +6,17 @@ namespace HolyCS
     {
         class ConvertTo
         {
-            static public short Hinduism(int number)
+            static public short Hinduism(string text)
             {
-                return Convert.ToInt16(number);
+                return Convert.ToInt16(text);
             }
-            static public int Judaism(int number)
+            static public int Judaism(string text)
             {
-                return Convert.ToInt32(number);
+                return Convert.ToInt32(text);
             }
-            static public long Christianity(int number)
+            static public long Christianity(string text)
             {
-                return Convert.ToInt64(number);
+                return Convert.ToInt64(text);
             }
         }
         class God
