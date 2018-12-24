@@ -1,10 +1,27 @@
-﻿using System;
+using System;
 
 namespace HolyCS
 {
-
     class Program
     {
+        
+        
+
+        class ConvertTo
+        {
+            static public short Hinduism(string text)
+            {
+                return Convert.ToInt16(text);
+            }
+            static public int Judaism(string text)
+            {
+                return Convert.ToInt32(text);
+            }
+            static public long Christianity(string text)
+            {
+                return Convert.ToInt64(text);
+            }
+        }
         class God
         {
             static public void Say(string args)
@@ -13,7 +30,7 @@ namespace HolyCS
             }
             static public void Sayeth(string args)
             {
-                Console.WriteLine(args + "eth");
+                Console.WriteLine(args.Replace(" ", "eth ").Replace(".", "eth.").Replace("?", "eth?").Replace("!", "eth!"));
             }
             static public void SayLine(string args)
             {
@@ -23,19 +40,28 @@ namespace HolyCS
             {
                 Console.WriteLine(args);
             }
-            static public string HearPrayer()
+            static public void SayLine(bool args)
             {
-                return(Console.ReadLine());
+                Console.WriteLine(args);
+            }
+            static public void SayLine(char args)
+            {
+                Console.WriteLine(args);
+            }
+            static public string ListenPrayer()
+            {
+                return Console.ReadLine();
+            }
+            static public int Listen()
+            {
+                return Console.Read();
             }
         }
 
         static void Main(string[] args)
         {
-            string Adam;
-
-            God.Sayeth("who is Adam");
-            Adam = God.HearPrayer();
-            God.Sayeth("You believe Adam is " + Adam + "?");
+                God.Sayeth("You are retardese.");   
         }
     }
 }
+

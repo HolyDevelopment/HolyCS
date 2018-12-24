@@ -9,3 +9,14 @@ C:\Users\ZlatkoPC\source\repos\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.Asse
 C:\Users\ZlatkoPC\source\repos\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.AssemblyInfo.cs
 C:\Users\ZlatkoPC\source\repos\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.dll
 C:\Users\ZlatkoPC\source\repos\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.pdb
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\bin\Debug\netcoreapp2.0\HolyCS.deps.json
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\bin\Debug\netcoreapp2.0\HolyCS.runtimeconfig.json
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\bin\Debug\netcoreapp2.0\HolyCS.runtimeconfig.dev.json
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\bin\Debug\netcoreapp2.0\HolyCS.dll
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\bin\Debug\netcoreapp2.0\HolyCS.pdb
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.csprojResolveAssemblyReference.cache
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.csproj.CoreCompileInputs.cache
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.AssemblyInfoInputs.cache
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.AssemblyInfo.cs
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.dll
+C:\Users\ZlatkoPC\source\repos\HolyCS2\HolyCS\HolyCS\obj\Debug\netcoreapp2.0\HolyCS.pdb

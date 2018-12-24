@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZlatkoPC\\source\\repos\\HolyCS\\HolyCS\\HolyCS.csproj",
+      "projectUniqueName": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS2\\HolyCS\\HolyCS\\HolyCS.csproj",
       "projectName": "HolyCS",
-      "projectPath": "C:\\Users\\ZlatkoPC\\source\\repos\\HolyCS\\HolyCS\\HolyCS.csproj",
+      "projectPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS2\\HolyCS\\HolyCS\\HolyCS.csproj",
       "packagesPath": "C:\\Users\\ZlatkoPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZlatkoPC\\source\\repos\\HolyCS\\HolyCS\\obj\\",
+      "outputPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS2\\HolyCS\\HolyCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
