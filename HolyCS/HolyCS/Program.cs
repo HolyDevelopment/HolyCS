@@ -4,6 +4,9 @@ namespace HolyCS
 {
     class Program
     {
+        
+        
+
         class ConvertTo
         {
             static public short Hinduism(string text)
@@ -27,7 +30,7 @@ namespace HolyCS
             }
             static public void Sayeth(string args)
             {
-                Console.WriteLine(args.Replace(" ", "eth "));
+                Console.WriteLine(args.Replace(" ", "eth ").Replace(".", "eth.").Replace("?", "eth?").Replace("!", "eth!"));
             }
             static public void SayLine(string args)
             {
@@ -57,7 +60,7 @@ namespace HolyCS
 
         static void Main(string[] args)
         {
-
+                God.Sayeth("You are retardese.");   
         }
     }
 }
