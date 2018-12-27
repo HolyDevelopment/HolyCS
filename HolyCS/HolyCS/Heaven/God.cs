@@ -8,7 +8,7 @@ namespace HolyCS.Heaven
         }
         static public void Sayeth(string args)
         {
-            System.Console.WriteLine(args.Replace(" ", "eth ").Replace(".", "eth.").Replace("?", "eth?").Replace("!", "eth!"));
+            System.Console.WriteLine(args.Replace(" ", "eth ").Replace(".", "eth.").Replace("?", "eth?").Replace("!", "eth!") + "eth");
         }
         static public void SayLine(string args)
         {
