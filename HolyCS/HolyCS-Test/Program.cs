@@ -6,7 +6,7 @@ namespace HolyCS_Test
     {
         static void Main(string[] args)
         {
-            Words w = "Hello Jesus!";
+            Passage w = "Hello Jesus!";
             God.Sayeth(w);
             God.Listen();
         }
