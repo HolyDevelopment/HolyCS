@@ -1,4 +1,4 @@
-﻿namespace HolyCS.Heaven
+namespace HolyCS.Heaven
 {
     public class God
     {
@@ -18,6 +18,20 @@
         {
             System.Console.WriteLine(args);
         }
+
+        static public void Say(Words args)
+        {
+            System.Console.Write(args.ToString());
+        }
+        static public void Sayeth(Words args)
+        {
+            System.Console.WriteLine(args.ToString().Replace(" ", "eth ").Replace(".", "eth.").Replace("?", "eth?").Replace("!", "eth!") + "eth");
+        }
+        static public void SayLine(Words args)
+        {
+            System.Console.WriteLine(args.ToString());
+        }
+
         static public void SayLine(bool args)
         {
             System.Console.WriteLine(args);
