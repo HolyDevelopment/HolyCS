@@ -1,0 +1,9 @@
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.csprojAssemblyReference.cache
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.csproj.CoreCompileInputs.cache
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.AssemblyInfoInputs.cache
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.AssemblyInfo.cs
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\bin\Debug\netstandard2.0\HolyCS.deps.json
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\bin\Debug\netstandard2.0\HolyCS.dll
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\bin\Debug\netstandard2.0\HolyCS.pdb
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.dll
+d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.pdb
