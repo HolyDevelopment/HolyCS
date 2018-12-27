@@ -1,4 +1,4 @@
-﻿using HolyCS.Heaven;
+using HolyCS.Heaven;
 
 namespace HolyCS_Test
 {
@@ -6,7 +6,8 @@ namespace HolyCS_Test
     {
         static void Main(string[] args)
         {
-            God.SayLine("Hello Jesus!");
+            Words w = "Hello Jesus!";
+            God.Sayeth(w);
             God.Listen();
         }
     }
