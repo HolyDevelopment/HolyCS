@@ -1,11 +1,19 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.0",
+    "name": ".NETCoreApp,Version=v2.1",
     "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v2.0": {
+    ".NETCoreApp,Version=v2.1": {
+      "HolyCS-Test/1.0.0": {
+        "dependencies": {
+          "HolyCS": "1.0.0"
+        },
+        "runtime": {
+          "HolyCS-Test.dll": {}
+        }
+      },
       "HolyCS/1.0.0": {
         "runtime": {
           "HolyCS.dll": {}
@@ -14,6 +22,11 @@
     }
   },
   "libraries": {
+    "HolyCS-Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "HolyCS/1.0.0": {
       "type": "project",
       "serviceable": false,
