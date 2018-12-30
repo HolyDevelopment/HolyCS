@@ -7,3 +7,12 @@ d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\bin\Debug\netstanda
 d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\bin\Debug\netstandard2.0\HolyCS.pdb
 d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.dll
 d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.pdb
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.csprojResolveAssemblyReference.cache
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.csproj.CoreCompileInputs.cache
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.AssemblyInfoInputs.cache
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.AssemblyInfo.cs
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.dll
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\obj\Debug\netstandard2.0\HolyCS.pdb
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\bin\Debug\netstandard2.0\HolyCS.deps.json
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\bin\Debug\netstandard2.0\HolyCS.dll
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS\bin\Debug\netstandard2.0\HolyCS.pdb

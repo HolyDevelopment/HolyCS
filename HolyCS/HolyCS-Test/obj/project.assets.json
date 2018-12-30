@@ -704,23 +704,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mflor\\.nuget\\packages\\": {},
+    "C:\\Users\\ZlatkoPC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Media\\Documents\\Visual Studio 2017\\Projects\\HolyCS\\HolyCS-Test\\HolyCS-Test.csproj",
+      "projectUniqueName": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS-Test\\HolyCS-Test.csproj",
       "projectName": "HolyCS-Test",
-      "projectPath": "d:\\Media\\Documents\\Visual Studio 2017\\Projects\\HolyCS\\HolyCS-Test\\HolyCS-Test.csproj",
-      "packagesPath": "C:\\Users\\mflor\\.nuget\\packages\\",
-      "outputPath": "d:\\Media\\Documents\\Visual Studio 2017\\Projects\\HolyCS\\HolyCS-Test\\obj\\",
+      "projectPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS-Test\\HolyCS-Test.csproj",
+      "packagesPath": "C:\\Users\\ZlatkoPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS-Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mflor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ZlatkoPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -728,14 +728,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/dsharpplus-nightly/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "d:\\Media\\Documents\\Visual Studio 2017\\Projects\\HolyCS\\HolyCS\\HolyCS.csproj": {
-              "projectPath": "d:\\Media\\Documents\\Visual Studio 2017\\Projects\\HolyCS\\HolyCS\\HolyCS.csproj"
+            "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS\\HolyCS.csproj": {
+              "projectPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS\\HolyCS.csproj"
             }
           }
         }

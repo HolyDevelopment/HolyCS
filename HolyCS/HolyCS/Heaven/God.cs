@@ -19,19 +19,23 @@ namespace HolyCS.Heaven
             System.Console.WriteLine(args);
         }
 
-        static public void Say(Words args)
+        static public void Say(Passage args)
         {
             System.Console.Write(args.ToString());
         }
-        static public void Sayeth(Words args)
+        static public void Sayeth(Passage args)
         {
             System.Console.WriteLine(args.ToString().Replace(" ", "eth ").Replace(".", "eth.").Replace("?", "eth?").Replace("!", "eth!") + "eth");
         }
-        static public void SayLine(Words args)
+        static public void SayLine(Passage args)
         {
             System.Console.WriteLine(args.ToString());
         }
 
+        static public void SayLine(Commandment args)
+        {
+            System.Console.WriteLine(args);
+        }
         static public void SayLine(bool args)
         {
             System.Console.WriteLine(args);

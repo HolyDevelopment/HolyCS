@@ -2,7 +2,7 @@
 {
     public class Convert
     {
-        static public short Hinduism(string text)
+        static public short Hinduism(Commandment text)
         {
             return System.Convert.ToInt16(text);
         }
