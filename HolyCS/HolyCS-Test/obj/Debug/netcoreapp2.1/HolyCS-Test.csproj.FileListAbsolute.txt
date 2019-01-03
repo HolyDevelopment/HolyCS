@@ -12,3 +12,17 @@ d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS-Test\obj\Debug\netc
 d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.csproj.CopyComplete
 d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.dll
 d:\Media\Documents\Visual Studio 2017\Projects\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.pdb
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\bin\Debug\netcoreapp2.1\HolyCS-Test.deps.json
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\bin\Debug\netcoreapp2.1\HolyCS-Test.runtimeconfig.json
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\bin\Debug\netcoreapp2.1\HolyCS-Test.runtimeconfig.dev.json
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\bin\Debug\netcoreapp2.1\HolyCS-Test.dll
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\bin\Debug\netcoreapp2.1\HolyCS-Test.pdb
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\bin\Debug\netcoreapp2.1\HolyCS.dll
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\bin\Debug\netcoreapp2.1\HolyCS.pdb
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.csprojAssemblyReference.cache
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.csproj.CoreCompileInputs.cache
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.AssemblyInfoInputs.cache
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.AssemblyInfo.cs
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.csproj.CopyComplete
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.dll
+C:\Users\ZlatkoPC\Source\Repos\HolyCS\HolyCS\HolyCS-Test\obj\Debug\netcoreapp2.1\HolyCS-Test.pdb

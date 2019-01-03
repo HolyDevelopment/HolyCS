@@ -1,4 +1,5 @@
 using HolyCS.Heaven;
+using System;
 
 namespace HolyCS_Test
 {
@@ -6,9 +7,8 @@ namespace HolyCS_Test
     {
         static void Main(string[] args)
         {
-            //What would you do for a Scooby snack?
-            Commandment w = 4;
-            God.SayLine(w);
+            //Where we coding boys?
+            //Tilted Studios
         }
     }
 }
