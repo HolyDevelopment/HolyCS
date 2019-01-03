@@ -6,9 +6,9 @@ namespace HolyCS_Test
     {
         static void Main(string[] args)
         {
-            Passage w = "Hello Jesus!";
-            God.Sayeth(w);
-            God.Listen();
+            //What would you do for a Scooby snack?
+            Commandment w = 4;
+            God.SayLine(w);
         }
     }
 }
