@@ -34,7 +34,7 @@ namespace HolyCS.Heaven
 
         static public void SayLine(Commandment args)
         {
-            System.Console.WriteLine(args);
+            System.Console.WriteLine(args.ToInt());
         }
         static public void SayLine(bool args)
         {
