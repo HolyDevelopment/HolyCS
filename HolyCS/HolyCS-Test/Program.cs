@@ -9,7 +9,6 @@ namespace HolyCS_Test
             //What would you do for a Scooby snack?
             Commandment w = 4;
             God.SayLine(w);
-            God.Listen();
         }
     }
 }
