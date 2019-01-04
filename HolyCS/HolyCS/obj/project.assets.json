@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS\\HolyCS.csproj",
+      "projectUniqueName": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS2\\HolyCS\\HolyCS\\HolyCS.csproj",
       "projectName": "HolyCS",
-      "projectPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS\\HolyCS.csproj",
+      "projectPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS2\\HolyCS\\HolyCS\\HolyCS.csproj",
       "packagesPath": "C:\\Users\\ZlatkoPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS\\HolyCS\\HolyCS\\obj\\",
+      "outputPath": "C:\\Users\\ZlatkoPC\\Source\\Repos\\HolyCS2\\HolyCS\\HolyCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
